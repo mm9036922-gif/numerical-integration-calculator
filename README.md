@@ -18,5 +18,4 @@ Live demo: https://mm9036922-gif.github.io/numerical-integration-calculator/
 
 ## Credits
 
-Thebes Higher Institute for Engineering - Maadi, 2025.
-Under the supervision of Dr. Alaa and Dr. Abdelrahman.
+By Mostafa Mahmoud Salah - Thebes Higher Institute for Engineering, Maadi, 2025.
